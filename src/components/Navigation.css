@@ -1,0 +1,12 @@
+.style_nav{
+text-decoration: none;
+color: white;
+margin: 0 1rem;
+
+}
+
+
+
+a:active{
+    text-decoration: underline;
+}
