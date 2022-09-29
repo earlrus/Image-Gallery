@@ -4,6 +4,8 @@ import AddGallery from '../components/AddGallery'
 import Searched from './Searched'
 import React from 'react'
 
+
+//React Routing 6
 function Page() {
   return (
       <Routes>
