@@ -9,3 +9,5 @@ export const store=configureStore({
 })
 
 export default store;
+
+//Added Redux toolkit
